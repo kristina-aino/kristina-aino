@@ -3,5 +3,8 @@
 ### Interested in
 - MLOps
 - Computer Vision
-- NLP
+- Audio Visual Processing
+- 3D from 2D
+- photogrammetry, NeRF, gaussian splatting, etc.
+- voice changers
 
