@@ -1,5 +1,9 @@
 # Hi there 👋, fellow traveler
 
+## Projects
+- [A system for capturing a system of cameras and send the information over ZMQ](https://github.com/kristina-aino/camera-capture-system)
+- [Calibrate your cameras using this tool](https://github.com/kristina-aino/calibrate-camera-system)
+
 ## Interested in
 #### Computer Vision & Image Processing
 - multi camera systems
